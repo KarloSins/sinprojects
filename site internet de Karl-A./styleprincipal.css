@@ -1,0 +1,41 @@
+#text
+{
+	 width:  800px
+	 margin:0 auto;
+	 background-color: white;
+	 text-align: center;
+	 align-content: center;
+   color: black
+}
+
+body {
+  color: grey;
+  text-align: center;
+}
+
+h1 {
+  color: navy;
+  font-size: 250%;
+}
+
+div.c 
+{
+  font-size: 150%;
+  border: 3px solid #4CAF50;
+   padding: 5px;
+}
+
+h2 {
+  color: black;
+  font-size: 250%;
+}
+
+p {
+ font-size: 150%;
+  }
+
+
+
+
+
+
